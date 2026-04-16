@@ -6,6 +6,12 @@ Cards are organized by topic area. Within each topic, cards are listed chronolog
 
 ---
 
+## Causal Inference and Biomarker Discovery
+
+- [Predictive vs Prognostic Biomarker Score — Problem Statement](./causal-inference-biomarkers/predictive-vs-prognostic-score-problem-statement.md) — Score to rank biomarker chains by treatment-specificity in RWD with missing counterfactuals
+
+---
+
 ## Probability Theory
 
 <!-- Cards go here. Format: - [Title](./probability-theory/kebab-case-title.md) — one-line summary -->
