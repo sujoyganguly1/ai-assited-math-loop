@@ -16,44 +16,6 @@ Cards are organized by topic area. Within each topic, cards are listed chronolog
 
 <!-- Cards go here. Format: - [Title](./probability-theory/kebab-case-title.md) — one-line summary -->
 
----
-
-## Concentration Inequalities
-
-<!-- Cards go here -->
-
----
-
-## Statistical Estimation and Inference
-
-<!-- Cards go here -->
-
----
-
-## PAC Learning and Generalization
-
-<!-- Cards go here -->
-
----
-
-## Information Theory and Divergences
-
-<!-- Cards go here -->
-
----
-
-## Variational Inference and Approximation
-
-<!-- Cards go here -->
-
----
-
-## Optimization in ML
-
-<!-- Cards go here -->
-
----
-
 ## Techniques Library
 
 Cross-cutting techniques that appear across multiple topic areas. A result card for a technique captures the technique itself — when to use it, what it requires, what it buys — independent of any specific problem.
