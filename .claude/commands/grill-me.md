@@ -1,0 +1,2 @@
+Read .claude/skills/grill-me-math.md and interview me relentlessly about: $ARGUMENTS
+Walk down each branch of the problem tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer. If a question can be answered by reading a prior result card in docs/math-wiki/, read it instead of asking.

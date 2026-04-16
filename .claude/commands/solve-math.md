@@ -1,0 +1,2 @@
+Read .claude/skills/solve-math.md and work through with me: $ARGUMENTS
+Stay in the background and let me lead. Go off independently only when my approach has a gap, I express uncertainty, or I ask you to check an assumption. When you do, return with a structured report: what you tried, what happened, the key insight, and the implication for our problem. When we reach a result, write a result card to docs/math-wiki/ and update docs/math-wiki/INDEX.md.
